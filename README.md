@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mandela 👋
+# Hey, I'm Mansec! 👋
 
 ### Smart Contract Security Researcher · Web3 Auditor in Training
 
